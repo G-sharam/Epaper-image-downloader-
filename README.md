@@ -1,0 +1,1 @@
+The goal of this project is to create a Python script that downloads images from a specified news e-paper website over a span of 10 days. The script aims to collect up to 100 images, handling various image formats and ensuring that filenames are valid for saving on the local filesystem.
